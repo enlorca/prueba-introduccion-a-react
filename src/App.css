@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to right, #d9eaf3, #86BBD8); !important;
+}
+
+.container {
+    background-color: #86BBD8;
+}
+
+.titulo {
+    background-color: #609dbe; 
+
+}
+
+p {
+    color: #864725 
+}
+
+h5 {
+    color: red !important;
+}

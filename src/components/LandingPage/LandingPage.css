@@ -1,0 +1,12 @@
+.lpp {
+    color: white;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.container {
+    padding: 2rem
+}
